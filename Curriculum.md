@@ -123,6 +123,8 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 - [COS226 at Princeton](http://www.cs.princeton.edu/courses/archive/spring18/cos226/) with a [condensed version of the book](https://algs4.cs.princeton.edu/home/) available for reference
 
+- [CS61B at UC Berkeley] (http://datastructur.es/)
+
 ## Theory of Computation
 
 ### Standard Textbooks
